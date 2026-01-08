@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">Frappe Learner | Python & JavaScript Developer | Accounting Enthusiast</h3>
+<h3 align="center">Frappe Learner | Python Developer | Accounting Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Frappe+Framework;Python+%7C+JavaScript+Developer;Accounting+and+ERP+Enthusiast;Always+Learning+%F0%9F%9A%80" />
